@@ -29,6 +29,6 @@
 📫 **Connect**
 - GitHub: [@PunitMishraAI](https://github.com/PunitMishraAI)
 - LinkedIn: 
-- Email: *(punitmishra.ai@gmail.com)*
+- Email: *(thepunitmishra.ai@gmail.com)*
 
 📝 Note: I’m documenting my learning openly—feedback & collaboration welcome!
